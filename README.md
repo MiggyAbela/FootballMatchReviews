@@ -8,6 +8,6 @@ Open your command prompt or terminal and run the following commands:
 - pip install vaderSentiment
 - pip install scikit-learn
 
-Once you have installed these libraries, you can import them into you Python program:
+Once you have installed these libraries, you can import them into you Python program.
 
 Youtube Demo Link:
